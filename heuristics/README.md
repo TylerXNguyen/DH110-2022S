@@ -17,8 +17,6 @@ This assignment will perform a heuristic evaluation (using Nielsen's heuristics)
 
 ![playsongnotes.com](PlaySongNotes_Web.png)
 ![playsongnotes.com](PlaySongNotes_Mobile.png)
-![PlaySongNotes_Mobile](https://user-images.githubusercontent.com/40559762/162051523-cd058ee5-ff12-4812-9f69-1ce7a8d13959.png)
-![PlaySongNotes_Web](https://user-images.githubusercontent.com/40559762/162051525-2a6409f9-7825-48ae-bf39-143f8f880b7b.png)
 
 *Information*: The website playsongnotes was created by musician David Pots. He covers lessons on YouTube with covers, practice tips, and updates that are posted to his website. The lessons are available for free with incentive to support the author on Patreon or donation to get the sheet music. The website can be used by anyone looking to play covers on the guitar or learn the basics. It is available to many demographics looking for quick helpful guitar lesson videos. David Pots himself is a middle-aged man.
 
@@ -150,8 +148,6 @@ This assignment will perform a heuristic evaluation (using Nielsen's heuristics)
 
 ![pianomarvel.com](PianoMarvel_Web.png)
 ![pianomarvel.com](PianoMarvel_Mobile.png)
-[PianoMarvel_Mobile](https://user-images.githubusercontent.com/40559762/162051519-293d0efa-cb46-4e42-8e01-15e8eb6bed08.png)
-![PianoMarvel_Web](https://user-images.githubusercontent.com/40559762/162051522-390f3b2c-dd56-4b47-856c-7adb5d86e705.png)
 
 *Information*: The website promotes how it can help users at all levels learn the piano. They advertise their software on the website as well as on mobile devices (iPad). There are different levels of songs and learning programs for Everyone, Teachers, and Schools. It makes it seem simple to learn from Piano Marvel since they offer lessons online. However, the ability to learn comes at a cost and requires a profile and account with payment to use their program.
 
