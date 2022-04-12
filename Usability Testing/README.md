@@ -13,10 +13,15 @@
 The rationale behind conducting this usability testing is to address these issues to see for further improvement. The test will help improve the user experience when the problems are clearly found. The tasks will contain three parts that measure the User’s experience. It also focuses on addressing the heuristic issues found earlier. These issues include Aesthetic and Minimalistic design, Consistency and Standards, and Visibility of System Status. These problems were of the greatest severity in disputing the ten Heuristics.
 
 1. Aesthetic and Minimalistic design (Severity level **3**)
+
   The home page was cluttered with unnecessary information. *Task 1* and *Task 3* helped expand on this heuristic and the proposal to address this issue.
+  
 2. Consistency and Standards (Severity level **2**)
+
   There was poor labeling for the songs. *Task 3* helped expand on this heuristic and the proposal to address this issue.
+  
 3. Visibility of System Status (Severity level **2**)
+
   Users were redirected on the website in new links. *Task 1* and *Task 3* helped expand on this heuristic and the proposal to address this issue.
   
 ## Methodology
