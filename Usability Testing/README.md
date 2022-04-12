@@ -1,4 +1,4 @@
-# Assignment 01: Heuristic Evaluation
+# Assignment 02: Pilot Usability Testing (UT)
 
 ### Tyler Nguyen | DGT HUM 110 | SPRING 2022
 
