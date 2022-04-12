@@ -24,9 +24,12 @@ The rationale behind conducting this usability testing is to address these issue
 We used a portable minimalist lab with Zoom meeting recording computer software to conduct and record the test. This allows for the moderator and participant to be in separate rooms from different locations. The participant was located in Berkeley, CA, and the moderator was in Los Angeles, CA. The face cameras were both on and the video was recorded on YouTube. The participant used their personal computer and I moderated them on my laptop. Both were in separate quiet areas closed off from other people. Information on the user is private and confidential, however, the participant is a new graduate and someone that I already know. In order to test the setting and materials, the test will be conducted as a mock usability test. The google form will be used as a questionnaire to evaluate the participant’s experience. Background questions, pretest, posttest, and demographic questionnaire serve to better understand the participant.
 
 > UT Survey
+
 [Click Here](https://forms.gle/Gm5vJ6vQXSsdbshw9)
 
 > UT Video
+
+
 [![Click Here](http://img.youtube.com/vi/7-TKsqspqb0/0.jpg)](https://www.youtube.com/watch?v=7-TKsqspqb0 "ALT-TEXT")
 
 ## Reflection
